@@ -1,0 +1,152 @@
+
+APPLICATION FORM FOR CG-TECH-Challenge BANKING (FOR individuals)
+REQUEST NO.:
+(To be filled by branch)
+I/We request you to request you to register my/our application for internet banking facility & link my/our accounts
+with your branch/other branch.
+NAME OF THE FIRST ACCOUNT HOLDER (Mr./Ms):
+V I S H A L K U M A R S A W
+ACCOUNT NO. :
+1
+2
+3
+1
+2
+3
+DATE OF BIRTH:
+1
+1
+/
+1
+1
+/
+2
+0
+1
+1
+(DD)
+(MM)
+(YYYY)
+CUSTOMER STATUS:
+J
+Minor If Yes,
+Name of Natural Guardian
+RESIDENTIAL STATUS:
+Indian Resident
+Non Resident Indian
+Foreign Resident
+OCCUPATION:
+IT Professional
+MOTHER'S MAIDEN NAME:
+COMMUNICATION ADDRESS:
+City:
+DHANBAD
+State:
+JHARKHAND
+Pin Code:
+826001
+Telephone (O):
+-
+J
+Telephone(R)
+-
+Fax No.:
+STD code
+STD code
+Email address: abc@abc.com
+Mobile:+91
+9
+0
+7
+3
+3
+5
+2
+0
+0
+1
+Details of any existing accounts to be linked for Internet banking
+(In case more number of accounts to be linked up, separate sheet may be attached)
+Branch Name
+Name of
+Account No.
+Customer ID
+Mode of Operation
+Jt. A/c. Holder
+(Filled by branch)
+TEST Branch
+ANOTHER NAME
+232323
+Online
+WEST Branch
+Yet Another
+878787
+Offline
+Declaration: [for Retail]:
+applicable for bank accounts as displayed on bank's website I/We accept and agree that I/We are aware of the
+contents of the terms and conditions and that all my/our rights and liabilities would be governed by the said terms
+and comply with all the provisions of the terms and conditions which are incorporated by reference herein and
+deemed to be part of this application form to the same extent as if such provisions had been set forth in full herein.
+Additional Terms and Conditions for NRI Customers:
+notified
+by
+Bank
+as
+eligible
+for
+internet
+banking
+facility
+from
+time
+to
+time.
+I/We
+do
+hereby
+undertake
+that
+I/We
+shall
+not make available to any persons resident in India, foreign currency against reimbursement in rupees or in any
+other manner in India. I/We further confirm that all debits to my/our accounts for the purpose of investment in India
+and credit representing sale proceeds of investment in India are covered either by general or special permission of
+Reserve Bank of India. I/We agree that the facility of Internet banking is available intra-bank only and no fund
+the approved bonafide transactions of domestic nature only and in any event such request will not be in
+contravention to the various regulations framed under Foreign Exchange Management Act,1999, Foreign Exchange
+Management [Deposit] Regulations,2000 and other rules and regulations laid down by Reserve Bank of India
+including Exchange Control Regulations.
+I/We do hereby indemnify and forever keep indemnified the Bank and its successors and assigns, from and against
+any and all claims, actions, penalties that may be made, suffered or incurred by the Bank by reason of non
+compliance of any of the terms and conditions mentioned therein.
+Signature:
+1.
+Name:
+2.
+Name:
+3.
+Name:
+4.
+Name:
+Place:
+DATE:
+/
+/
+N.B. : Internet facility is provided only in accounts where the mode of operation is self/either or survivor/anyone or
+survivor. A separate User ID and PIN is required for each signatory in an account. ( In case more than one
+signatory requires access over the Internet, please use separate form for each signatory.)
+FOR OFFICE USE ONLY
+For use at Branch
+For Corporate office use
+We confirm having verified the signatures, enabled the
+[BCOT]
+customer ID in Finacle core and recommend granting of
+eBanking facility.
+User profile changed on
+/
+/
+Name and signature of Br.Manager
+Signature No:
+Name & Signature
+Br. SOL Id No.:
+Region:
