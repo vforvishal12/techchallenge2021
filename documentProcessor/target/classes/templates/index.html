@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" th:href="|https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css|"/>
+    <script th:src="|https://code.jquery.com/jquery-1.12.4.min.js|"></script>
+    <script th:src="|https://code.jquery.com/ui/1.11.4/jquery-ui.min.js|"></script>
+    <link rel="stylesheet" href="../public/css/styles.css" th:href="@{/css/styles.css}" />
+    <link rel="icon" href="../public/images/favicon.ico" th:href="@{/images/favicon.ico}" />
+</head>
+<body>
+<header th:replace="layout :: site-header"/>
+<div class="container">
+
+    <h2>AWS Document Analyzer Application</h2>
+
+    <p>The AWS Document Analyzer application is a sample application that uses the Amazon Textract Service as well as other AWS Services and the Java V2 SDK.
+        Analyzing PDF documents has never been easier! Simply perform these steps:<p>
+
+    <ol>
+        <li>You can upload a PDF document to an Amazon S3 bucket by choosing the <i>Upload Documents</i> menu item.</li>
+        <li>Choose <i>Choose File</i> and browse to a PDF document located on your local desktop.</li>
+        <li>Choose <i>Upload</i> to upload the PDF document to an Amazon S3 bucket.</li>
+        <li>You can choose <i>Get Documents</i> to view the PDF documents located in the Amazon S3 bucket. All documents in the Amazon S3 bucket are displayed in the drop-down field. </li>
+        <li>You can analyze a given PDF document by choosing the <i>Analyze Documents</i> menu item. </li>
+        <li>Select a PDF document from the drop-down field and choose <i>Analyze Document</i>. The results are displaced in the application.  </li>
+    </ol>
+</div>
+</body>
+</html>
