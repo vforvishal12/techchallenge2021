@@ -22,10 +22,28 @@ React – Responsive UI
 
 
 # Solution Architecture
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/52970035/132089101-9d4a647c-8c3d-4c41-81d6-6a0563cfde8f.png">
-
 
 ![Flow drawio](https://user-images.githubusercontent.com/52970035/132089138-cdda8ad6-3fb6-4503-af64-fa8a235a76e5.png)
+
+
+# Sample form
+
+<img width="768" alt="image" src="https://user-images.githubusercontent.com/52970035/132089294-91d9e314-4461-4bca-b5c5-ca4f61edc412.png">
+
+# Sample Filled form
+<img width="768" alt="image" src="https://user-images.githubusercontent.com/52970035/132089345-3b83c87c-a458-491d-b0c0-61d54dcdd65e.png">
+
+# Sample Filled Form extraction
+<img width="137" alt="image" src="https://user-images.githubusercontent.com/52970035/132089377-c8d0bfb3-a39b-4a47-a0b8-be4270f5b245.png">
+
+
+# Sample Filled Form extraction
+
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/52970035/132089384-7c2f693e-3881-40ad-b6ce-8de36515b863.png">
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/52970035/132089386-b0d57374-2725-4a73-a662-277bc1650e8c.png">
+
+
+
 
 
 # Challenges Faced
